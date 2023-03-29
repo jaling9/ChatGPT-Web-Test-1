@@ -17,7 +17,9 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'http://p3.itc.cn/q_70/images03/20200816/a47e2c7f8221469ca572b02dc58b2f16.jpeg',
       name: 'xiaoman',
-      description: 'Star on <a href="https://github.com/Chanzhaoyu/chatgpt-bot" class="text-blue-500" target="_blank" >Github</a>',
+      description: 'A chatbot based on GPT-3.5',
+ 
+      // description: 'Star on <a href="https://github.com/Chanzhaoyu/chatgpt-bot" class="text-blue-500" target="_blank" >Github</a>',
     },
   }
 }
